@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**JPresting/JPresting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Process automation and optimization that actually brings value from start to finish - both for private users as well as businesses, depends on the use case.
 
-Here are some ideas to get you started:
+Also using the great world of open source to host your own systems on (almost) free instances surrounding Oracle and Google Cloud as well as anything I might consider beneficial ;-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect
+
+- 🎥 **YouTube:** [@StardawnAI](https://youtube.com/@StardawnAI)
+
+---
+
+⭐ **Check out my repositories** for self-hosted solutions and automation guides!
