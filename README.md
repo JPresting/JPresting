@@ -8,10 +8,4 @@ Also using the great world of open source to host your own systems on (almost) f
 
 - 🎥 **YouTube:** [@StardawnAI](https://youtube.com/@StardawnAI)
 
----
-
-⭐ **Check out my repositories** for self-hosted solutions and automation guides!
-
-![N8N Logo Animation (2)](https://github.com/user-attachments/assets/cf5bbb31-f6fd-429d-80c3-23968666a2a7)
-
-
+![N8N Logo Animation (3)](https://github.com/user-attachments/assets/731b35ed-52ff-4eda-b0d9-5561b06f9f4b)
